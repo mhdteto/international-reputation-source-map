@@ -2,6 +2,10 @@
 
 # International Reputation Source Map
 
+[![Validation](https://github.com/mhdteto/international-reputation-source-map/actions/workflows/validate.yml/badge.svg?branch=main)](https://github.com/mhdteto/international-reputation-source-map/actions/workflows/validate.yml)
+![Python CI](https://img.shields.io/badge/Python%20CI-3.10%20%7C%203.13-36d9ee?labelColor=081321)
+
+
 **A curated starting catalogue for international identity, evidence and source research.**
 
 Find an appropriate official entry point for a particular claim, then inspect the actual record and its scope. The initial catalogue contains **16 entries** covering the United States, United Kingdom, Canada, France, United Arab Emirates and Morocco, plus global research identity and publication resources.
@@ -14,6 +18,21 @@ Find an appropriate official entry point for a particular claim, then inspect th
   <a href="https://mohammedteto.com/method/"><img src=".github/readme-assets/method.svg" width="148" height="36" alt="The method" /></a>
   <a href="https://mohammedteto.com/research/"><img src=".github/readme-assets/research.svg" width="148" height="36" alt="Research" /></a>
 </p>
+
+<!-- suite-navigation -->
+## Start here: this repository in the workflow
+
+**Your task:** Find sources appropriate to a specific claim and market.
+
+[Method →](https://github.com/mhdteto/authority-architecture-system) · [Audit →](https://github.com/mhdteto/search-ai-discoverability-checker) · [Structure →](https://github.com/mhdteto/entity-structured-data-kit) · [Measure →](https://github.com/mhdteto/ai-citation-tracker)
+
+**Next step:** [authority-evidence-mapper](https://github.com/mhdteto/authority-evidence-mapper) — Record the actual source review; a catalogue entry is not verification.
+
+**Try it:** [complete fictional workflow](https://github.com/mhdteto/authority-architecture-system/tree/main/examples/fictional-workflow). All scenario records and engine answers are invented; generated reports are real CLI output.
+
+**Python CI:** 3.10 / 3.13. The badge links to the real workflow; it describes automated checks, not ranking, factual accuracy or AI visibility.
+[Map of all eight resources](https://github.com/mhdteto/authority-architecture-system/blob/main/docs/tool-map.md) · [Open an issue](https://github.com/mhdteto/international-reputation-source-map/issues/new/choose)
+<!-- /suite-navigation -->
 
 ## What each entry provides
 
