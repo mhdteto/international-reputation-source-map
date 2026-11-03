@@ -20,6 +20,14 @@ Find an appropriate official entry point for a particular claim, then inspect th
 </p>
 
 <!-- suite-navigation -->
+## See the suite workflow
+
+[![Recorded explorer with fictional citation groups, filters and CSV export](https://raw.githubusercontent.com/mhdteto/authority-architecture-system/main/.github/readme-assets/explorer-walkthrough.gif)](https://mhdteto.github.io/authority-architecture-system/#citations)
+
+Actual browser capture of the suite explorer; fictional observations. Plays once. [Static view](https://github.com/mhdteto/authority-architecture-system/blob/main/.github/readme-assets/explorer-static.png) · [Text walkthrough](https://github.com/mhdteto/authority-architecture-system/blob/main/docs/explorer-walkthrough.md).
+
+[Start your audit](https://github.com/mhdteto/search-ai-audit-starter) · [Reusable GitHub Action](https://github.com/mhdteto/search-ai-audit-action) · [Real first-party technical baseline](https://github.com/mhdteto/authority-architecture-system/tree/main/case-studies/mohammedteto-com).
+
 ## Start here: this repository in the workflow
 
 **Your task:** Find sources appropriate to a specific claim and market.
